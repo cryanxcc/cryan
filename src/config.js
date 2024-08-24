@@ -1,8 +1,8 @@
 export default {
   // page1部分
   page1: {
-    titleEn: 'Hi, I am Cryan',
-    title: '一个AI的研究者与实践者',
+    titleEn: 'Hi, I am Chris',
+    title: '一个研究者与实践者',
   },
   // page2部分
   page2: {
@@ -10,7 +10,7 @@ export default {
     authorImg: '微信头像.jpg',
     xinhui: '我叫滕述臣，一名在读研究生。',
     // qiuzhi: '',
-    guanyuwo: '熟练使用Java、Python语言以及Pytorch等深度学习框架；熟悉前后端开发框架；熟练掌握Transformer系列模型架构和原理。有着拥有丰富的政府端与企业端的项目经验，实习阶段参与过自动驾驶模型开发。' +
+    guanyuwo: '熟练使用Java、Python语言以及Pytorch等深度学习框架；熟悉前后端开发框架；熟练掌握Transformer系列模型架构和原理。有着拥有丰富的政府端与企业端的项目经验，' +
         '擅长用AIGC加速个人生产效率。希望可以和大家一起学习，共同进步！' // 关于我
   },
 
@@ -21,7 +21,7 @@ export default {
       date: '2022/9——2025/6', // 时间
       desc: { // 经历
         title: '河海大学-硕士',
-        list: ['发表核心论文《基于Transformer的局部时间步长二维水动力方法研究》', '拥有丰富的政府端与企业端的项目实战经验，曾独立开发过智慧化平台并已上线','自动驾驶大模型算法实习生'
+        list: ['发表核心论文《基于Transformer的局部时间步长二维水动力方法研究》', '拥有丰富的政府端与企业端的项目实战经验，曾独立开发并落地了水利智慧化平台项目',
         ,'南瑞杯一等奖', '中国水科学数值模拟大赛三等奖']
       }
     }, {
